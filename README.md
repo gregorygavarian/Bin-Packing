@@ -8,7 +8,7 @@ Before I start, I will say that there are heuristic algorithms for solving this 
 
 In a generic view, for n items, the minimum number of possible bins is one, with a maximum number of n bins, with one item per bin.  
 
-For two items, A and B, they can be categorized as follows, with each numerical row corresponding to which bin that A or B corresponds to:
+For two items, A and B, they can be categorized as follows, with each numerical pair corresponding to which bin that item A or B corresponds to:
 
 AB
 11
